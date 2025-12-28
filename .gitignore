@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+metrics.db
+
+# ML model
+failure_model.pkl
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
